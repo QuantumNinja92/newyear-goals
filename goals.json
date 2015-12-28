@@ -1,0 +1,55 @@
+var mygoals = [
+  {
+    "title" : "New Year Goals",
+    "goals" :[
+      "love new year",
+      "have six packs",
+      "eat well"
+    ],
+    "state" :[
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "title" : "New Year Goals",
+    "goals" :[
+      "love new year",
+      "have six packs",
+      "eat well"
+    ],
+    "state" :[
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "title" : "New Year Goals",
+    "goals" :[
+      "love new year",
+      "have six packs",
+      "eat well"
+    ],
+    "state" :[
+      0,
+      1,
+      0
+    ]
+  },
+  {
+    "title" : "New Year Goals",
+    "goals" :[
+      "love new year",
+      "have six packs",
+      "eat well"
+    ],
+    "state" :[
+      0,
+      1,
+      0
+    ]
+  }
+
+  ];
